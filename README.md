@@ -1,3 +1,4 @@
+# SirogomaAZARASI
 # ColorPaletteGenerator
 # 使い方は後で追加します。
 <picture>
